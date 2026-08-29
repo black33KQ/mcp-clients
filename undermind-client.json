@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/DireWall/mcp-clients@main/undermind-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/black33KQ/mcp-clients@main/undermind-client.json",
   "client_name": "ZCode MCP (black33KQ local)",
   "redirect_uris": ["http://127.0.0.1:8765/callback"],
   "grant_types": ["authorization_code"],
